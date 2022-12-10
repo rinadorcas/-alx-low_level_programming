@@ -7,4 +7,5 @@
    The C file name will be saved in the variable $CFILE
 4. Write a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
    Use the function puts, you are not allowed to use printf and Your program should end with the value 0
-5. Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new linen
+5. Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line
+6. Write a C program that prints the size of various types on the computer it is compiled and run on.
